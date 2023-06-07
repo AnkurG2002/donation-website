@@ -1,6 +1,6 @@
 # Charity Donation Website
 
-**live demo: [https://weatherapp-14fbc.web.app/](https://donation-website-wine.vercel.app/)**
+**live demo: [https://donation-website-wine.vercel.app/](https://donation-website-wine.vercel.app/)**
 
 ---
 
